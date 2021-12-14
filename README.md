@@ -1,4 +1,4 @@
-# Social-Cost-Carbon
+# The Social Cost of Carbon: DICE 2016 Model
 
 This repo contains research and a web app modeling William Nordhaus' DICE 2016 model in python.
 
